@@ -56,7 +56,7 @@ This project is part of a larger initiative to develop a smart autonomous lawn m
 ```
 MotorControl_LawnMower/
 │
-├── Video_Test.mp4
+├── Video_Test.mp4 #local only
 │
 ├── Docs/
 │   └── Report.docx

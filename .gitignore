@@ -1,0 +1,17 @@
+
+*.exe
+*.spec
+*.pyc
+__pycache__/
+*.log
+
+
+*.tmp
+*.bak
+~$*
+
+.DS_Store
+Thumbs.db
+
+
+Video_Test.mp4

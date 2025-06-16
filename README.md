@@ -47,7 +47,7 @@ This project is part of a larger initiative to develop a smart autonomous lawn m
 ## 🔌 Hardware Setup
 
 <p align="center">
-  <img src="Schematic/Motor_driver.pdf" width="450" alt="Hardware Setup">
+  <img src="Schematic/hardware_setup.jpg" width="450" alt="Hardware Setup">
 </p>
 
 ---
@@ -78,18 +78,17 @@ MotorControl_LawnMower/
 │
 ├── README.md
 └── .gitignore
+```
 
 ## 🚀 Getting Started
-
+```
 1. Upload the Arduino code from `Arduino_Code/motor_control.ino` to your Arduino Uno.
 2. Connect the HC-05 module to Arduino using the pins specified in the code.
 3. Run the GUI application:
-   ```bash
    pip install pyqt5 pyserial
    python GUI_App/main.py
-   ```
 4. Select the correct COM port and connect.
-
+```
 
 ## 👨‍💻 Authors
 - Doan Do
